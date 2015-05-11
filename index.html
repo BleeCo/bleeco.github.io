@@ -22,6 +22,7 @@
 
 <!-- Custom styles for this template -->
 <link href="./bootstrap/css/carousel.css" rel="stylesheet">
+<link href="./bootstrap/css/hover.css" rel="stylesheet">
 </head>
 <!-- NAVBAR
 ================================================== -->
@@ -126,24 +127,37 @@
   <h2 class="featurette-heading">Meet blee</h2>
   <hr/>
   
-  <img src="./assets/wifi.png" class="img-circle"
-  alt="Wifi" width=80 height=80>
-  <img src="./assets/app interface.png" class="img-circle"
-  alt="App Interface" width=80 height=80>
-  <img src="./assets/group.png" class="img-circle"
-  alt="Group" width=80 height=80>
-  <img src="./assets/auto convert.png" class="img-circle"
-  alt="Auto Conversion" width=80 height=80>
-  <img src="./assets/pattern.png" class="img-circle"
-  alt="Pattern" width=80 height=80>
-  <img src="./assets/test.png" class="img-circle"
-  alt="Test" width=80 height=80>
-  <img src="./assets/share.png" class="img-circle"
-  alt="Share" width=80 height=80>
-
+  <img src="./assets/wifi.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+  data-toggle="tooltip" title="connect with WiFi" alt="Wifi" width=80
+  height=80>
   
+  <img src="./assets/app interface.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+ data-toggle="tooltip" title="control with your smartphone" alt="App
+  Interface" width=80 height=80>
+  
+  <img src="./assets/group.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+  data-toggle="tooltip" title="use multiple rings at once" alt="Group"
+  width=80 height=80>
+  
+  <img src="./assets/auto convert.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+  data-toggle="tooltip" title="mp3 to vibration wizard" alt="Auto
+  Conversion" width=80 height=80>
+  
+  <img src="./assets/pattern.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+  data-toggle="tooltip" title="compose vibration patterns"
+  alt="Pattern" width=80 height=80>
+  
+  <img src="./assets/test.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+ data-toggle="tooltip" title="feel the vibration on your smartphone"
+  alt="Test" width=80 height=80>
+  
+  <img src="./assets/share.png" class="img-circle hvr-pulse" style="margin-right: 25px"
+  data-toggle="tooltip" title="share the choreography with your
+  friends" alt="Share" width=80 height=80 >
 
-
+  <br/>
+  <br/>
+  
   <img src="./assets/blee.jpg" class="img-responsive" alt="Meet Blee">
 
 </div>
@@ -223,6 +237,10 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="./bootstrap/js/bootstrap.min.js"></script>
-
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
 </body>
 </html>

@@ -102,3 +102,13 @@
 .navbar-custom .navbar-link:hover {
   color: #c0c0c0;
 }
+
+@media screen and (max-width: 768px) {
+    .navbar-nav {
+	text-align:right;
+    }
+    .dropdown-menu{
+	text-align:right;
+    }
+    
+}

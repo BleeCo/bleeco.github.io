@@ -188,11 +188,13 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
   action="//getblee.us10.list-manage.com/subscribe/post?u=e32b809a72792b6037aa49652&amp;id=0489b30590"
   method="post" id="mc-embedded-subscribe-form"
   name="mc-embedded-subscribe-form" class="validate text-center" target="_blank" novalidate>
+
 <div id="mc_embed_signup_scroll">
-  
 <div class="mc-field-group">
-  <label for="mce-EMAIL">Email</label>
-  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+  <label for="mce-EMAIL"></label>
+  <input type="email" value name="EMAIL" class="required email
+  mce_inline_error" id="mce-EMAIL" aria-required="true"
+  aria-invalid="true" placeholder="Email Id">
 </div>
 <div id="mce-responses" class="clear">
 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -206,7 +208,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </div>
 <center>
   <input  type="submit"  value="Sign Up"  name="subscribe"
-  id="mc-embedded-subscribe"  class="btn btn-primary ">
+  id="mc-embedded-subscribe"  class="btn btn-primary" style="margin: 1em 0 1em 0em">
 </center>
   </div>
   </form>

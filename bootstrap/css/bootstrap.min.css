@@ -7,6 +7,7 @@
 .navbar-custom {
   background-color: #000000;
   border-color: #000000;
+;
 }
 .navbar-custom .navbar-brand {
   color: #ffffff;
@@ -75,6 +76,7 @@
   border-bottom-color: #ffffff;
 }
 @media (max-width: 767) {
+
   .navbar-custom .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
   }
@@ -103,12 +105,16 @@
   color: #c0c0c0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .navbar-nav {
 	text-align:right;
+
+
     }
     .dropdown-menu{
 	text-align:right;
+
+
     }
     
 }

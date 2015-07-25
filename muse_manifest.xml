@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1437820554956">
+  <folder name="css">
+    <file name="site_global.css" crc="394018110"/>
+    <file name="master_a-master.css" crc="135479506" ref="about:team:blog:index:faqs"/>
+    <file name="about.css" crc="3762702519" ref="about"/>
+    <file name="team.css" crc="3762702519" ref="team"/>
+    <file name="blog.css" crc="3762702519" ref="blog"/>
+    <file name="index.css" crc="85375571" ref="index"/>
+    <file name="faqs.css" crc="3762702519" ref="faqs"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>about:phone>team:phone>blog:phone>faqs:index:blog:team:faqs:about"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>about:phone>team:phone>blog:phone>faqs:index:blog:team:faqs:about"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>about:phone>team:phone>blog:phone>faqs:index:blog:team:faqs:about"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>about:phone>team:phone>blog:phone>faqs:index:blog:team:faqs:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>team:phone>blog:phone>faqs:index:blog:team:faqs:about"/>
+    <file name="museredirect.js" crc="40941066" ref="index:blog:team:faqs:about"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:blog:team:faqs:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="video page.jpg" crc="3841107655" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:blog:team:faqs:about"/>
+    <file name="2.jpg" crc="461981491" seo="true" ref="index"/>
+    <file name="3.jpg" crc="243398141" seo="true" ref="index"/>
+    <file name="cover.jpg" crc="233384138" ref="index"/>
+    <file name="iwant one-i want one.png" crc="4202844755" ref="index"/>
+    <file name="iwant one-i want one2.png" crc="3883595741" ref="index"/>
+    <file name="u165.png" crc="4126685478" ref="index:blog:team:faqs:about"/>
+    <file name="u165-r.png" crc="213839675" ref="index:blog:team:faqs:about"/>
+    <file name="u165-m.png" crc="4110236775" ref="index:blog:team:faqs:about"/>
+    <file name="u165-a.png" crc="319459306" ref="index:blog:team:faqs:about"/>
+    <file name="u972.png" crc="3932236279" ref="index:blog:team:faqs:about"/>
+    <file name="u972-r.png" crc="3836991581" ref="index:blog:team:faqs:about"/>
+    <file name="u972-m.png" crc="264488984" ref="index:blog:team:faqs:about"/>
+    <file name="u972-a.png" crc="183457536" ref="index:blog:team:faqs:about"/>
+    <file name="u207.png" crc="4291184808" ref="index:blog:team:faqs:about"/>
+    <file name="u207-r.png" crc="3893962885" ref="index:blog:team:faqs:about"/>
+    <file name="u207-m.png" crc="248666944" ref="index:blog:team:faqs:about"/>
+    <file name="u207-a.png" crc="4284530227" ref="index:blog:team:faqs:about"/>
+    <file name="u188.png" crc="332448587" ref="index:blog:team:faqs:about"/>
+    <file name="u188-r.png" crc="112449497" ref="index:blog:team:faqs:about"/>
+    <file name="u188-m.png" crc="236821319" ref="index:blog:team:faqs:about"/>
+    <file name="u188-a.png" crc="78123700" ref="index:blog:team:faqs:about"/>
+    <file name="u214.png" crc="362066968" ref="index:blog:team:faqs:about"/>
+    <file name="u214-r.png" crc="3868854253" ref="index:blog:team:faqs:about"/>
+    <file name="u214-m.png" crc="3828684187" ref="index:blog:team:faqs:about"/>
+    <file name="u214-a.png" crc="3864489393" ref="index:blog:team:faqs:about"/>
+    <file name="u896-6.png" crc="3961493612" ref="index"/>
+    <file name="logo.jpg" crc="3805016544" seo="true" ref="index:blog:team:faqs:about"/>
+    <file name="u654-4.png" crc="3777564494" ref="index"/>
+    <file name="corner.png" crc="3787209383" seo="true" ref="index"/>
+    <file name="img.jpg" crc="308670010" ref="index"/>
+    <file name="u655-4.png" crc="350697629" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4258810890" ref="phone>about:phone>blog:phone>faqs:phone>index:phone>team"/>
+      <file name="about.css" crc="3978961404" ref="phone>about"/>
+      <file name="blog.css" crc="3978961404" ref="phone>blog"/>
+      <file name="faqs.css" crc="3978961404" ref="phone>faqs"/>
+      <file name="index.css" crc="56867981" ref="phone>index"/>
+      <file name="team.css" crc="3978961404" ref="phone>team"/>
+    </folder>
+    <file name="index.html" crc="282699824" seo="true" mt="1437819982609" redirect="true"/>
+    <file name="about.html" crc="4134430958" seo="true" mt="1437819951391" redirect="true"/>
+    <file name="team.html" crc="533105583" seo="true" mt="1437819951391" redirect="true"/>
+    <file name="blog.html" crc="3922738336" seo="true" mt="1437819951391" redirect="true"/>
+    <file name="faqs.html" crc="316918262" seo="true" mt="1437819951391" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="111603798" seo="true" mt="1437820553363" redirect="true"/>
+  <file name="blog.html" crc="187104599" seo="true" mt="1437820553363" redirect="true"/>
+  <file name="team.html" crc="3765775869" seo="true" mt="1437820553363" redirect="true"/>
+  <file name="faqs.html" crc="3779892354" seo="true" mt="1437820553363" redirect="true"/>
+  <file name="about.html" crc="383819474" seo="true" mt="1437820553363" redirect="true"/>
+</manifest>

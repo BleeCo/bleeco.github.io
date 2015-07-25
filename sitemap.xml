@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://getblee.com/images/video%20page.jpg</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://getblee.com/images/2.jpg</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://getblee.com/images/3.jpg</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://getblee.com/images/logo.jpg</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://getblee.com/images/corner.png</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://getblee.com/index.html</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://getblee.com/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://getblee.com/blog.html</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://getblee.com/phone/blog.html"/>
+  </url>
+  <url>
+    <loc>http://getblee.com/team.html</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://getblee.com/phone/team.html"/>
+  </url>
+  <url>
+    <loc>http://getblee.com/faqs.html</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://getblee.com/phone/faqs.html"/>
+  </url>
+  <url>
+    <loc>http://getblee.com/about.html</loc>
+    <lastmod>2015-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://getblee.com/phone/about.html"/>
+  </url>
+</urlset>

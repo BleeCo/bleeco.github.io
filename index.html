@@ -47,7 +47,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
   <span class="icon-bar"></span>
   <span class="icon-bar"></span>
   </button>
-  <a class="navbar-brand" href="#"><img class="img-responsive" style="width:40%;" src="assets/logo.jpg"></a>
+  <a class="navbar-brand" href="#"><img class="img-responsive" style="width:40%" src="assets/logo.jpg"></a>
   
 </div>
 <div id="navbar" class="navbar-collapse collapse">
@@ -55,7 +55,14 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
     <li class="active"><a href="#">Home</a></li>
     <li><a href="#about">About</a></li>
     <li><a href="#team">Team</a></li> 
+    <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Feedback <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#people">People's Reactions</a></li>
+            <li><a href="#validation">Validation</a></li>
+          </ul>
     <li><a href="#faqs">FAQs</a></li>
+    <li><a href="#contact">Contact</a></li>
     <!--<li><a href="./try">Try</a></li>-->
     
 </ul>
@@ -67,7 +74,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </div>
 
 
- <img class="bg" src="assets/blee_piano_staff.png" class="img-responsive" alt="Meet Blee">
+ <img style="cursor:move;width:100%" src="assets/blee_piano_staff.png" class="img-responsive" alt="Meet Blee">
 
 <!-- Marketing messaging and featurettes
 ================================================== -->
@@ -193,7 +200,7 @@ Blee adds a new dimension to music by giving a unique sensorial experience.</p>
 
 
   <!-- /END THE FEATURETTES -->
-
+<a name="people"></a>
     <h2 class="featurette-heading text-center">People's Reactions</h2>
        <hr/>
 <br/><br/>
@@ -228,7 +235,7 @@ Blee adds a new dimension to music by giving a unique sensorial experience.</p>
   </div>
 
   <br/><br/>
-
+    <a name="validation"></a>
     <h2 class="featurette-heading text-center">Validation</h2>
        <hr/>
 
@@ -279,6 +286,47 @@ Blee adds a new dimension to music by giving a unique sensorial experience.</p>
 
 </br>
 
+
+<br/>
+<a name="contact"></a>
+ <h2 class="featurette-heading text-center">Contact Us</h2>
+<hr/>
+<div class="container marketing">
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
+<div class="col-lg-4">
+  
+  <h3>Janhavi Joshi</h3>
+<p><strong>[janhavi AT getblee DOT com]</strong></p>
+<p><strong>[+91 9011079083]</strong></p>
+
+</div><!-- /.col-lg-4 -->
+<div class="col-lg-4">
+  
+  <h3>Ninad Kulkarni</h3>
+<p><strong>[ninad AT getblee DOT com]</strong></p>
+<p><strong>[+91 9975618566]</strong></p>
+
+</div><!-- /.col-lg-4 -->
+
+<div class="col-lg-4">
+  
+  <h3>Nupura Kirloskar</h3>
+<p><strong>[nupura AT getblee DOT com]</strong></p>
+<p><strong>[+91 8007224527]</strong></p>
+
+</div><!-- /.col-lg-4 -->
+  <br/><br/>
+
+</div><!-- /.col-lg-4 -->
+<hr/>
+<div class="container">
+
+<iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15132.342835182675!2d73.8289639!3d18.525028600000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf9d239165dd%3A0x65e6ad5145f06a1e!2sMangalwadi+Rd%2C+Gokhalenagar%2C+Pune%2C+Maharashtra+411016!5e0!3m2!1sen!2sin!4v1443531596493" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
+<br/>
+
 <div>
 <a href="https://www.facebook.com/getblee">
 <img style="float:right; width: 3%; height: 3%; margin:0% 0% 0% 2%" src="assets/facebook.png" >
@@ -287,7 +335,6 @@ Blee adds a new dimension to music by giving a unique sensorial experience.</p>
 <img style="float:right; width: 3%; height: 3%" src="assets/twitter.png">
 </a>
 </div>
-
   <div class="container">
   <!-- FOOTER -->
   <footer>
@@ -300,11 +347,13 @@ Blee adds a new dimension to music by giving a unique sensorial experience.</p>
   </div><!-- /.container -->
 
 
+
+
   <!-- Bootstrap core JavaScript
   ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="./bootstrap/js/bootstrap.min.js"></script>
+  <script src="./bootstrap/js/bootstrap.js"></script>
   <script>
   $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip(); 

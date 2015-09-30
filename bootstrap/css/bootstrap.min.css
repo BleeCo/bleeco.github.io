@@ -7,6 +7,10 @@
   cursor: move;
   width: 100%;
 }
+.img-responsive{
+	cursor:move;
+	width:100%;
+}
 .navbar-custom {
   background-color: #000000;
   border-color: #000000;

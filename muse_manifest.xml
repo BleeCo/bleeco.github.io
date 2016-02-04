@@ -1,0 +1,33 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1454564085036">
+  <folder name="css">
+    <file name="site_global.css" crc="213324770"/>
+    <file name="master_a-master.css" crc="183123453" ref="index"/>
+    <file name="index.css" crc="4198679631" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="blee-diaries----entering-the-world-of-silence-sd.mp4" crc="4050152706" seo="true" mt="1443700324000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
+    <file name="museutils.js" crc="334180058" ref="index"/>
+    <file name="webpro.js" crc="7309900" ref="index"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index"/>
+    <file name="touchswipe.js" crc="526709374" ref="index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="slider1-01.jpg" crc="35693172" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slider2-01.jpg" crc="452347028" seo="true" ref="index"/>
+    <file name="slider3-01.jpg" crc="4268912092" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo.jpg" crc="216226606" seo="true" ref="index"/>
+    <file name="recognitions-01.jpg" crc="422137082" seo="true" ref="index"/>
+    <file name="info dummy-01.jpg" crc="3986950188" seo="true" ref="index"/>
+    <file name="corner.png" crc="3787209383" seo="true" ref="index"/>
+    <file name="img.jpg" crc="308670010" ref="index"/>
+  </folder>
+  <file name="index.html" crc="274876173" seo="true" mt="1454534902724" redirect="true"/>
+</manifest>

@@ -1,8 +1,9 @@
-<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1454564085036">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1454584913922">
   <folder name="css">
-    <file name="site_global.css" crc="213324770"/>
-    <file name="master_a-master.css" crc="183123453" ref="index"/>
-    <file name="index.css" crc="4198679631" ref="index"/>
+    <file name="site_global.css" crc="3987351942"/>
+    <file name="master_a-master.css" crc="3911722849" ref="index"/>
+    <file name="index.css" crc="308278407" ref="index"/>
+    <file name="iefonts_index.css" crc="4034056779" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="blee-diaries----entering-the-world-of-silence-sd.mp4" crc="4050152706" seo="true" mt="1443700324000"/>
@@ -10,24 +11,31 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
     <file name="museutils.js" crc="334180058" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3865564493" ref="index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index"/>
     <file name="webpro.js" crc="7309900" ref="index"/>
     <file name="musewpslideshow.js" crc="4149944274" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4282111687" ref="index"/>
     <file name="touchswipe.js" crc="526709374" ref="index"/>
-    <file name="jquery.watch.js" crc="293013060" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="slider1-01.jpg" crc="35693172" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="slider2-01.jpg" crc="452347028" seo="true" ref="index"/>
-    <file name="slider3-01.jpg" crc="4268912092" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="logo.jpg" crc="216226606" seo="true" ref="index"/>
-    <file name="recognitions-01.jpg" crc="422137082" seo="true" ref="index"/>
-    <file name="info dummy-01.jpg" crc="3986950188" seo="true" ref="index"/>
+    <file name="slider1-01.jpg" crc="4097079011" ref="index"/>
+    <file name="slider2-01.jpg" crc="3799182491" ref="index"/>
+    <file name="slider3-01.jpg" crc="216608545" ref="index"/>
+    <file name="recognitions-01.jpg" crc="203906058" seo="true" ref="index"/>
+    <file name="infographics2.jpg" crc="3836835682" seo="true" ref="index"/>
     <file name="corner.png" crc="3787209383" seo="true" ref="index"/>
-    <file name="img.jpg" crc="308670010" ref="index"/>
+    <file name="421523_113831722076841_570476376_n.jpg" crc="3835307384" ref="index"/>
+    <file name="12552979_10208704519596943_4241070867309559894_n.jpg" crc="476240760" ref="index"/>
+    <file name="ps.jpg" crc="3811149182" ref="index"/>
+    <file name="ah-ieu1507-fr.png" crc="357931970" ref="index"/>
+    <file name="ah.jpg" crc="3792697910" ref="index"/>
+    <file name="20150309_111723_4_bestshot (2).jpg" crc="183332713" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="274876173" seo="true" mt="1454534902724" redirect="true"/>
+  <file name="index.html" crc="248748809" seo="true" mt="1454584805487" redirect="true"/>
 </manifest>

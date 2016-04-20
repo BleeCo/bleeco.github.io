@@ -16,7 +16,6 @@
 	#pu2258
 	{
 		padding-bottom: 82px;
-		width: 100%;
 	}
 
 	#u2258
@@ -37,24 +36,13 @@
 		z-index: 50;
 	}
 
-	#u5182-4
-	{
-		z-index: 51;
-		min-height: 29px;
-		position: fixed;
-		top: 29px;
-		left: 121px;
-		width: 8.72%;
-		max-width: 122px;
-	}
-
 	#pmenuu833
 	{
 		padding-bottom: 34px;
 		margin-right: -10000px;
 		margin-top: 30px;
 		margin-left: 764px;
-		width: 39.86%;
+		width: 40.15%;
 	}
 
 	#menuu833
@@ -358,33 +346,29 @@
 	#u11413
 	{
 		z-index: 45;
-		position: fixed;
-		top: 41px;
-		right: 133px;
-		width: 0.65%;
-		max-width: 9px;
+		top: 35px;
+		right: 125px;
+		width: 0.79%;
+		max-width: 11px;
 	}
 
 	#u11409
 	{
 		z-index: 46;
-		width: 111.12%;
 	}
 
 	#u11434
 	{
 		z-index: 47;
-		position: fixed;
-		top: 41px;
-		right: 78px;
-		width: 1.72%;
-		max-width: 24px;
+		top: 35px;
+		right: 74px;
+		width: 2%;
+		max-width: 28px;
 	}
 
 	#u11430
 	{
 		z-index: 48;
-		width: 100%;
 	}
 
 	#u3911
@@ -396,7 +380,7 @@
 	#u3922-4
 	{
 		margin-top: 18px;
-		left: 431px;
+		left: 20px;
 		width: 44.08%;
 	}
 

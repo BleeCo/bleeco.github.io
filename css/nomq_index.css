@@ -563,12 +563,28 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#pu2643
 	{
 		margin-top: 10px;
+		width: 100%;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 244px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 306px;
+		margin-bottom: -23px;
 		width: 97.29%;
 		margin-left: 1.36%;
-		left: 1px;
+	}
+
+	#accordionu5388
+	{
+		left: 0.999999999999929px;
 	}
 
 	#u5390
@@ -659,32 +675,10 @@
 		left: 0.67%;
 	}
 
-	#u2643
-	{
-		min-height: 35px;
-		padding-bottom: 4px;
-	}
-
-	#u2643_align_to_page
-	{
-		margin-left: auto;
-		margin-right: auto;
-		position: relative;
-		max-width: 1400px;
-	}
-
 	#team
 	{
-		width: 22px;
-		margin-right: -10000px;
-		margin-top: 17px;
+		margin-top: 261px;
 		left: 14px;
-	}
-
-	#u2643-bw
-	{
-		min-height: 35px;
-		margin-top: 60px;
 	}
 
 	#ppu6895-4

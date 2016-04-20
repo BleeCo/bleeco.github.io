@@ -3,12 +3,12 @@
 	-pie-background: rgba(39,41,47,0.9);
 }
 
-#u5175,#u11413,#u11434
+#u11413,#u11434,#u5175
 {
 	background-color: transparent;
 }
 
-#u5171,#u11409,#u11430
+#u11409,#u11430,#u5171
 {
 	display: block;
 }
@@ -454,21 +454,6 @@
 	#u3911_align_to_page
 	{
 		max-width: 320px;
-	}
-
-}
-
-@media (min-width: 321px) and (max-width: 480px)
-{
-	#u2258
-	{
-		background-color: #3C3E43;
-		background-color: rgba(39,41,47,0.9);
-	}
-
-	#u3911_align_to_page
-	{
-		max-width: 480px;
 	}
 
 }

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001B;
-	background-color: #61EC55;
+	color: #000001;
+	background-color: #9CDE87;
 }
 
 .js body
@@ -102,13 +102,6 @@
 	background-color: #27292F;
 }
 
-#testimonials
-{
-	width: 22px;
-	margin-right: -10000px;
-	position: relative;
-}
-
 #u13333
 {
 	max-width: 100000px;
@@ -152,13 +145,45 @@
 	font-weight: 500;
 }
 
+#u6898
+{
+	background-color: transparent;
+	max-width: 100000px;
+	position: relative;
+	z-index: 38;
+	border-color: transparent;
+	min-width: 30px;
+	border-width: 0px;
+}
+
+#u2643
+{
+	z-index: 39;
+	background-color: #B6ECFF;
+	height: 39px;
+}
+
+#u2643-bw
+{
+	z-index: 39;
+	height: 39px;
+}
+
+#accordionu5388wrapper
+{
+	z-index: 69;
+	margin-right: -10000px;
+}
+
 #accordionu5388
 {
+	border-color: transparent;
+	margin-left: 0%;
 	border-width: 0px;
 	position: relative;
 	z-index: 69;
 	background-color: transparent;
-	border-color: transparent;
+	width: 100%;
 }
 
 #u5389
@@ -421,15 +446,11 @@
 	cursor: pointer;
 }
 
-#u2643
+#testimonials,#team
 {
-	z-index: 39;
-	background-color: #B6ECFF;
-}
-
-#u2643-bw
-{
-	z-index: 39;
+	width: 22px;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u6895-4
@@ -443,17 +464,6 @@
 	min-height: 56px;
 	font-family: sofia-pro, sans-serif;
 	font-weight: 500;
-}
-
-#u6898
-{
-	background-color: transparent;
-	max-width: 100000px;
-	position: relative;
-	z-index: 38;
-	border-color: transparent;
-	min-width: 30px;
-	border-width: 0px;
 }
 
 #u6903-25
@@ -591,7 +601,7 @@
 	background-color: #FFFFFF;
 }
 
-#info,#about,#faqs,#team,body
+#info,#about,#faqs,body
 {
 	position: relative;
 }
@@ -1163,12 +1173,28 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#pu2643
 	{
 		margin-top: 10px;
+		width: 100%;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 244px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 306px;
+		margin-bottom: -23px;
 		width: 97.29%;
 		margin-left: 1.36%;
-		left: 1px;
+	}
+
+	#accordionu5388
+	{
+		left: 0.999999999999929px;
 	}
 
 	#u5390
@@ -1259,32 +1285,10 @@
 		left: 0.67%;
 	}
 
-	#u2643
-	{
-		min-height: 35px;
-		padding-bottom: 4px;
-	}
-
-	#u2643_align_to_page
-	{
-		margin-left: auto;
-		margin-right: auto;
-		position: relative;
-		max-width: 1400px;
-	}
-
 	#team
 	{
-		width: 22px;
-		margin-right: -10000px;
-		margin-top: 17px;
+		margin-top: 261px;
 		left: 14px;
-	}
-
-	#u2643-bw
-	{
-		min-height: 35px;
-		margin-top: 60px;
 	}
 
 	#ppu6895-4
@@ -1961,12 +1965,28 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#pu2643
 	{
 		margin-top: 21px;
+		width: 100%;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 192px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 306px;
+		margin-bottom: -21px;
 		width: 97.28%;
 		margin-left: 1.37%;
-		left: -1px;
+	}
+
+	#accordionu5388
+	{
+		left: -0.5000000000000018px;
 	}
 
 	#u5390
@@ -2051,21 +2071,10 @@
 		left: 0.63%;
 	}
 
-	#u2643
-	{
-		height: 39px;
-	}
-
-	#u2643-bw
-	{
-		margin-top: 8px;
-		height: 39px;
-	}
-
 	#team
 	{
-		margin-left: 24px;
-		margin-top: 36px;
+		margin-top: 267px;
+		left: 24px;
 	}
 
 	#u6895-4
@@ -2434,12 +2443,21 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#u2643-bw
 	{
-		margin-top: 22px;
+		margin-top: 196px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 306px;
 		width: 97.27%;
 		margin-left: 1.37%;
-		left: -1px;
+	}
+
+	#accordionu5388
+	{
+		left: -0.5px;
 	}
 
 	#u5391-4
@@ -2524,27 +2542,17 @@
 		left: 0.67%;
 	}
 
-	#u2643
-	{
-		height: 39px;
-	}
-
-	#u2643-bw
-	{
-		margin-top: 12px;
-		height: 39px;
-	}
-
 	#team
 	{
-		margin-left: 14px;
-		margin-top: 10px;
+		margin-top: 245px;
+		left: 14px;
 	}
 
 	#u6895-4
 	{
-		margin-left: 305px;
-		margin-top: 9px;
+		margin-right: -10000px;
+		margin-top: 272px;
+		left: 305px;
 		width: 20.06%;
 	}
 
@@ -2557,7 +2565,7 @@
 		left: -26px;
 	}
 
-	#ppu6903-25
+	#pu2643,#ppu6903-25
 	{
 		margin-top: 22px;
 		width: 100%;
@@ -2886,12 +2894,37 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#pu6898
 	{
 		margin-top: 22px;
+		width: 100%;
+	}
+
+	#u6898
+	{
+		height: 258px;
+		margin-right: -10000px;
+		margin-top: 353px;
+		width: 94.8%;
+		margin-left: 5.21%;
+		left: -19px;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 218px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 363px;
 		width: 97.3%;
 		margin-left: 1.36%;
-		left: 0px;
+	}
+
+	#accordionu5388
+	{
+		left: -0.49999999999995026px;
 	}
 
 	#accordionu5388_position_content
@@ -2980,41 +3013,23 @@
 		left: 0.65%;
 	}
 
-	#u2643
-	{
-		height: 39px;
-	}
-
-	#u2643-bw
-	{
-		margin-top: 9px;
-		height: 39px;
-	}
-
 	#team
 	{
-		margin-left: 18px;
-		margin-top: 11px;
+		margin-top: 268px;
+		left: 18px;
 	}
 
 	#u6895-4
 	{
-		margin-left: 158px;
+		margin-right: -10000px;
+		margin-top: 286px;
+		left: 158px;
 		width: 31.46%;
-	}
-
-	#u6898
-	{
-		height: 258px;
-		margin-top: 11px;
-		width: 94.8%;
-		margin-left: 5.21%;
-		left: -19px;
 	}
 
 	#pu6903-25
 	{
-		margin-top: 21px;
+		margin-top: 20px;
 		width: 100%;
 	}
 
@@ -3319,12 +3334,28 @@
 		left: -1px;
 	}
 
-	#accordionu5388
+	#pu2643
 	{
 		margin-top: 4px;
+		width: 100%;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 275px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 411px;
+		margin-bottom: -9px;
 		width: 97.23%;
 		margin-left: 1.39%;
-		left: -2px;
+	}
+
+	#accordionu5388
+	{
+		left: -2.0000000000000426px;
 	}
 
 	#u5480-4
@@ -3408,34 +3439,24 @@
 		left: 0.58%;
 	}
 
-	#u2643
-	{
-		height: 39px;
-	}
-
-	#u2643-bw
-	{
-		margin-top: 19px;
-		height: 39px;
-	}
-
 	#team
 	{
-		margin-left: 18px;
-		margin-top: 8px;
+		margin-top: 322px;
+		left: 18px;
 	}
 
 	#u6895-4
 	{
-		margin-left: 70px;
-		margin-top: 6px;
+		margin-right: -10000px;
+		margin-top: 346px;
+		left: 70px;
 		width: 49.17%;
 	}
 
 	#u6898
 	{
 		height: 258px;
-		margin-top: 9px;
+		margin-top: 10px;
 		width: 94.73%;
 		margin-left: 5.28%;
 		left: -11px;
@@ -3750,12 +3771,37 @@
 		left: 0px;
 	}
 
-	#accordionu5388
+	#pu6898
 	{
 		margin-top: 4px;
+		width: 100%;
+	}
+
+	#u6898
+	{
+		height: 258px;
+		margin-right: -10000px;
+		margin-top: 411px;
+		width: 94.69%;
+		margin-left: 5.32%;
+		left: -11px;
+	}
+
+	#u2643-bw
+	{
+		margin-top: 275px;
+	}
+
+	#accordionu5388wrapper
+	{
+		min-height: 435px;
 		width: 97.19%;
 		margin-left: 1.41%;
-		left: -2px;
+	}
+
+	#accordionu5388
+	{
+		left: -2.499999999999993px;
 	}
 
 	#u5391-4
@@ -3841,37 +3887,18 @@
 		left: 0.33%;
 	}
 
-	#u2643
-	{
-		height: 39px;
-	}
-
-	#u2643-bw
-	{
-		margin-top: 19px;
-		height: 39px;
-	}
-
 	#team
 	{
-		margin-left: 18px;
-		margin-top: 8px;
+		margin-top: 322px;
+		left: 18px;
 	}
 
 	#u6895-4
 	{
-		margin-left: 70px;
-		margin-top: 6px;
+		margin-right: -10000px;
+		margin-top: 346px;
+		left: 70px;
 		width: 49.07%;
-	}
-
-	#u6898
-	{
-		height: 258px;
-		margin-top: 9px;
-		width: 94.69%;
-		margin-left: 5.32%;
-		left: -11px;
 	}
 
 	#pu6903-25

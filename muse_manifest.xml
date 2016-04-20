@@ -1,41 +1,94 @@
-<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1454584913922">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1461149248141">
   <folder name="css">
-    <file name="site_global.css" crc="3987351942"/>
-    <file name="master_a-master.css" crc="3911722849" ref="index"/>
-    <file name="index.css" crc="308278407" ref="index"/>
-    <file name="iefonts_index.css" crc="4034056779" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="blee-diaries----entering-the-world-of-silence-sd.mp4" crc="4050152706" seo="true" mt="1443700324000"/>
+    <file name="site_global.css" crc="4163559730"/>
+    <file name="master_a-master.css" crc="4087326937" ref="faqs:contact:blog:index:testimonials:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3842926289" ref="faqs:contact:blog:index:testimonials:about"/>
+    <file name="faqs.css" crc="4010104151" ref="faqs"/>
+    <file name="nomq_faqs.css" crc="206854814" ref="faqs"/>
+    <file name="contact.css" crc="4010104151" ref="contact"/>
+    <file name="nomq_contact.css" crc="206854814" ref="contact"/>
+    <file name="blog.css" crc="4010104151" ref="blog"/>
+    <file name="nomq_blog.css" crc="206854814" ref="blog"/>
+    <file name="index.css" crc="4054380155" ref="index"/>
+    <file name="nomq_index.css" crc="354521756" ref="index"/>
+    <file name="testimonials.css" crc="4010104151" ref="testimonials"/>
+    <file name="nomq_testimonials.css" crc="206854814" ref="testimonials"/>
+    <file name="about.css" crc="4010104151" ref="about"/>
+    <file name="nomq_about.css" crc="206854814" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
-    <file name="museutils.js" crc="334180058" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="3865564493" ref="index"/>
-    <file name="jquery.watch.js" crc="293013060" ref="index"/>
-    <file name="jquery.musemenu.js" crc="315128729" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:testimonials:faqs:contact:blog"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index"/>
-    <file name="webpro.js" crc="7309900" ref="index"/>
-    <file name="musewpslideshow.js" crc="4149944274" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4282111687" ref="index"/>
-    <file name="touchswipe.js" crc="526709374" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
   <folder name="images">
-    <file name="logo.jpg" crc="216226606" seo="true" ref="index"/>
-    <file name="slider1-01.jpg" crc="4097079011" ref="index"/>
-    <file name="slider2-01.jpg" crc="3799182491" ref="index"/>
-    <file name="slider3-01.jpg" crc="216608545" ref="index"/>
-    <file name="recognitions-01.jpg" crc="203906058" seo="true" ref="index"/>
-    <file name="infographics2.jpg" crc="3836835682" seo="true" ref="index"/>
-    <file name="corner.png" crc="3787209383" seo="true" ref="index"/>
-    <file name="421523_113831722076841_570476376_n.jpg" crc="3835307384" ref="index"/>
-    <file name="12552979_10208704519596943_4241070867309559894_n.jpg" crc="476240760" ref="index"/>
-    <file name="ps.jpg" crc="3811149182" ref="index"/>
-    <file name="ah-ieu1507-fr.png" crc="357931970" ref="index"/>
-    <file name="ah.jpg" crc="3792697910" ref="index"/>
-    <file name="20150309_111723_4_bestshot (2).jpg" crc="183332713" seo="true" ref="index"/>
+    <file name="website banner.jpg" crc="363709066" seo="true" ref="index"/>
+    <file name="down-arrow-01.svg" crc="83674688" ref="index"/>
+    <file name="down arrow-01_poster_.png" crc="3794360955" ref="index"/>
+    <file name="logo_facebook.svg" crc="4217760542" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="logo_facebook_poster_.png" crc="50490028" ref="index"/>
+    <file name="logo_twitter.svg" crc="156455958" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="logo_twitter_poster_.png" crc="4184454095" ref="index"/>
+    <file name="blee-logo-vector-01.svg" crc="3838900836" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="blee logo vector-01_poster_.png" crc="206567366" ref="index"/>
+    <file name="phone.svg" crc="426125256" ref="index"/>
+    <file name="phone_poster_.png" crc="4245537455" ref="index"/>
+    <file name="alarm.svg" crc="124918736" ref="index"/>
+    <file name="alarm_poster_.png" crc="3869581229" ref="index"/>
+    <file name="baby.svg" crc="509395130" ref="index"/>
+    <file name="baby_poster_.png" crc="237513651" ref="index"/>
+    <file name="alert.svg" crc="4260833874" ref="index"/>
+    <file name="alert_poster_.png" crc="4226355679" ref="index"/>
+    <file name="headphones.svg" crc="4276436631" ref="index"/>
+    <file name="headphones_poster_.png" crc="508638516" ref="index"/>
+    <file name="car.svg" crc="445255471" ref="index"/>
+    <file name="car_poster_.png" crc="3784809184" ref="index"/>
+    <file name="doorbell.svg" crc="342464186" ref="index"/>
+    <file name="doorbell_poster_.png" crc="3773585785" ref="index"/>
+    <file name="website-gif.gif" crc="123983490" seo="true" ref="index"/>
+    <file name="mobile.svg" crc="215425309" ref="index"/>
+    <file name="mobile_poster_.png" crc="4124471634" ref="index"/>
+    <file name="real-time.svg" crc="4233990524" ref="index"/>
+    <file name="real time_poster_.png" crc="4083153132" ref="index"/>
+    <file name="library.svg" crc="4147905558" ref="index"/>
+    <file name="library_poster_.png" crc="4027635342" ref="index"/>
+    <file name="record.svg" crc="4135004183" ref="index"/>
+    <file name="record_poster_.png" crc="450340469" ref="index"/>
+    <file name="customize.svg" crc="3881428471" ref="index"/>
+    <file name="customize_poster_.png" crc="387827768" ref="index"/>
+    <file name="direction.svg" crc="294363045" ref="index"/>
+    <file name="direction_poster_.png" crc="4031766414" ref="index"/>
+    <file name="1280px-lockheed_martinsvg.png" crc="493501660" seo="true" ref="index"/>
+    <file name="ficci_logosvg.png" crc="3782644734" seo="true" ref="index"/>
+    <file name="dst-logo.jpg" crc="4278118231" seo="true" ref="index"/>
+    <file name="gsb_h_seal_2c-308x100.png" crc="3932159314" seo="true" ref="index"/>
+    <file name="iusstf-logo-name.jpg" crc="190139773" seo="true" ref="index"/>
+    <file name="up.png" crc="82265795" seo="true" ref="index"/>
+    <file name="ic2-logo-with-ut-wordmark-2012-black.jpg" crc="88464412" seo="true" ref="index"/>
+    <file name="white-logo.png" crc="3860029509" seo="true" ref="index"/>
+    <file name="banner-rgt.png" crc="473531434" seo="true" ref="index"/>
+    <file name="gslabs-banner.jpg" crc="3814590160" seo="true" ref="index"/>
+    <file name="website banner321x136.jpg" crc="380646332" seo="true" ref="index"/>
+    <file name="ico_ham.svg" crc="3975549554" ref="index"/>
+    <file name="ico_ham_poster_u9437.png" crc="11301426" ref="index"/>
+    <file name="ico_ham_close.svg" crc="4023206521" ref="index"/>
+    <file name="ico_ham_close_poster_u9485.png" crc="4203631480" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
-  <file name="index.html" crc="248748809" seo="true" mt="1454584805487" redirect="true"/>
+  <file name="index.html" crc="3806371203" seo="true" mt="1461149055635" redirect="true"/>
+  <file name="about.html" crc="4268166079" seo="true" mt="1461149055635" redirect="true"/>
+  <file name="testimonials.html" crc="4224068014" seo="true" mt="1461149055635" redirect="true"/>
+  <file name="faqs.html" crc="507691784" seo="true" mt="1461149055635" redirect="true"/>
+  <file name="contact.html" crc="201725121" seo="true" mt="1461149055635" redirect="true"/>
+  <file name="blog.html" crc="93220741" seo="true" mt="1461149055635" redirect="true"/>
 </manifest>

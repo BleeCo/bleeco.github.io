@@ -151,13 +151,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01322x136.jpg</loc>
+    <loc>http://www.getblee.com/images/website%20banner%20copy-01362x153.jpg</loc>
     <lastmod>2016-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/features-01312x67.jpg</loc>
+    <loc>http://www.getblee.com/images/recognition-01360x78.jpg</loc>
+    <lastmod>2016-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.getblee.com/images/website%20banner%20copy-01322x136.jpg</loc>
     <lastmod>2016-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

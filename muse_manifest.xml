@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1461188282901">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1461189012934">
   <folder name="css">
     <file name="site_global.css" crc="3939940074"/>
-    <file name="master_a-master.css" crc="3922257658" ref="about:testimonials:contact:index:faqs:blog"/>
+    <file name="master_a-master.css" crc="244122023" ref="about:testimonials:contact:index:faqs:blog"/>
     <file name="nomq_preview_master_a-master.css" crc="53937656" ref="about:testimonials:contact:index:faqs:blog"/>
-    <file name="about.css" crc="3765664433" ref="about"/>
+    <file name="about.css" crc="3900906422" ref="about"/>
     <file name="nomq_about.css" crc="347875907" ref="about"/>
-    <file name="testimonials.css" crc="3765664433" ref="testimonials"/>
+    <file name="testimonials.css" crc="3900906422" ref="testimonials"/>
     <file name="nomq_testimonials.css" crc="347875907" ref="testimonials"/>
-    <file name="contact.css" crc="3765664433" ref="contact"/>
+    <file name="contact.css" crc="3900906422" ref="contact"/>
     <file name="nomq_contact.css" crc="347875907" ref="contact"/>
-    <file name="index.css" crc="3823167212" ref="index"/>
-    <file name="nomq_index.css" crc="4133009558" ref="index"/>
-    <file name="faqs.css" crc="3765664433" ref="faqs"/>
+    <file name="index.css" crc="459402325" ref="index"/>
+    <file name="nomq_index.css" crc="4013162377" ref="index"/>
+    <file name="faqs.css" crc="3900906422" ref="faqs"/>
     <file name="nomq_faqs.css" crc="347875907" ref="faqs"/>
-    <file name="blog.css" crc="3765664433" ref="blog"/>
+    <file name="blog.css" crc="3900906422" ref="blog"/>
     <file name="nomq_blog.css" crc="347875907" ref="blog"/>
   </folder>
   <folder name="assets">
@@ -35,7 +35,7 @@
     <file name="museutils.js" crc="3790713428" ref="index:about:testimonials:faqs:contact:blog"/>
     <file name="whatinput.js" crc="84559013" ref="index:about:testimonials:faqs:contact:blog"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:about"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:about:testimonials:faqs:contact:blog"/>
     <file name="webpro.js" crc="329496574" ref="index"/>
     <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
@@ -64,15 +64,16 @@
     <file name="website banner copy-01482x204.jpg" crc="14604810" seo="true" ref="index"/>
     <file name="features-01467x101.jpg" crc="321381757" seo="true" ref="index"/>
     <file name="recognition-01480x103.jpg" crc="4006714470" seo="true" ref="index"/>
+    <file name="website banner copy-01362x153.jpg" crc="4108411184" seo="true" ref="index"/>
+    <file name="recognition-01360x78.jpg" crc="3809219024" seo="true" ref="index"/>
     <file name="website banner copy-01322x136.jpg" crc="4116635098" seo="true" ref="index"/>
-    <file name="features-01312x67.jpg" crc="7302768" seo="true" ref="index"/>
     <file name="recognition-01320x69.jpg" crc="458502726" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
-  <file name="index.html" crc="250345210" seo="true" mt="1461188209840" redirect="true"/>
-  <file name="about.html" crc="450874441" seo="true" mt="1461185422018" redirect="true"/>
-  <file name="testimonials.html" crc="3925283449" seo="true" mt="1461185422018" redirect="true"/>
-  <file name="faqs.html" crc="3788579916" seo="true" mt="1461185422018" redirect="true"/>
-  <file name="contact.html" crc="4247403480" seo="true" mt="1461185422018" redirect="true"/>
-  <file name="blog.html" crc="42364748" seo="true" mt="1461185422018" redirect="true"/>
+  <file name="index.html" crc="4291253214" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="about.html" crc="513094438" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="testimonials.html" crc="491921672" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="faqs.html" crc="3904772497" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="contact.html" crc="4078677602" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="blog.html" crc="3913138644" seo="true" mt="1461188976264" redirect="true"/>
 </manifest>

@@ -429,14 +429,23 @@
 	#pu13321
 	{
 		margin-top: 18px;
+		width: 100%;
 	}
 
 	#u13321
 	{
 		z-index: 126;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 152px;
 		width: 97.29%;
 		left: 1.15%;
+	}
+
+	#u13321_img
+	{
+		width: 100%;
 	}
 
 	#u6663-8
@@ -484,6 +493,11 @@
 		margin-top: 571px;
 	}
 
+	#u6001
+	{
+		left: 0px;
+	}
+
 	#testimonials
 	{
 		margin-top: 582px;
@@ -492,7 +506,14 @@
 
 	#u20054
 	{
+		z-index: 120;
 		height: 190px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		max-width: 100000px;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 173px;
 		width: 13.36%;
 		margin-left: 86.65%;

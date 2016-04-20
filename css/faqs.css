@@ -1,7 +1,7 @@
 .version.faqs /* version checker */
 {
-	color: #0000E0;
-	background-color: #737AB1;
+	color: #0000E8;
+	background-color: #831BB6;
 }
 
 .js body
@@ -1132,7 +1132,7 @@ body
 		padding-bottom: 14px;
 		margin-right: -10000px;
 		margin-top: 13px;
-		margin-left: 257px;
+		margin-left: 235px;
 		width: 13.44%;
 	}
 
@@ -1140,7 +1140,7 @@ body
 	{
 		z-index: 8;
 		top: 13px;
-		right: 56px;
+		right: 78px;
 		width: 2.19%;
 		max-width: 7px;
 	}
@@ -1154,7 +1154,7 @@ body
 	{
 		z-index: 10;
 		top: 13px;
-		right: 20px;
+		right: 42px;
 		width: 5.32%;
 		max-width: 17px;
 	}

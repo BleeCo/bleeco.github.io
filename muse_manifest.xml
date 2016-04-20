@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1461189012934">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1461189641572">
   <folder name="css">
     <file name="site_global.css" crc="3939940074"/>
-    <file name="master_a-master.css" crc="244122023" ref="about:testimonials:contact:index:faqs:blog"/>
+    <file name="master_a-master.css" crc="81947604" ref="about:testimonials:contact:index:faqs:blog"/>
     <file name="nomq_preview_master_a-master.css" crc="53937656" ref="about:testimonials:contact:index:faqs:blog"/>
     <file name="about.css" crc="3900906422" ref="about"/>
     <file name="nomq_about.css" crc="347875907" ref="about"/>
@@ -9,8 +9,8 @@
     <file name="nomq_testimonials.css" crc="347875907" ref="testimonials"/>
     <file name="contact.css" crc="3900906422" ref="contact"/>
     <file name="nomq_contact.css" crc="347875907" ref="contact"/>
-    <file name="index.css" crc="459402325" ref="index"/>
-    <file name="nomq_index.css" crc="4013162377" ref="index"/>
+    <file name="index.css" crc="27057799" ref="index"/>
+    <file name="nomq_index.css" crc="3958634538" ref="index"/>
     <file name="faqs.css" crc="3900906422" ref="faqs"/>
     <file name="nomq_faqs.css" crc="347875907" ref="faqs"/>
     <file name="blog.css" crc="3900906422" ref="blog"/>
@@ -70,7 +70,7 @@
     <file name="recognition-01320x69.jpg" crc="458502726" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
-  <file name="index.html" crc="4291253214" seo="true" mt="1461188976264" redirect="true"/>
+  <file name="index.html" crc="231179107" seo="true" mt="1461189531319" redirect="true"/>
   <file name="about.html" crc="513094438" seo="true" mt="1461188976264" redirect="true"/>
   <file name="testimonials.html" crc="491921672" seo="true" mt="1461188976264" redirect="true"/>
   <file name="faqs.html" crc="3904772497" seo="true" mt="1461188976264" redirect="true"/>

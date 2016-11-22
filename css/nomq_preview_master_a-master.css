@@ -16,9 +16,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -41,9 +41,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -66,9 +66,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -91,9 +91,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -116,9 +116,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -141,9 +141,9 @@
 		border-color: transparent;
 		background-color: transparent;
 		line-height: 18px;
-		color: #FFFFFF;
-		font-size: 15px;
 		text-align: center;
+		font-size: 15px;
+		color: #FFFFFF;
 		font-family: sofia-pro, sans-serif;
 		font-weight: 300;
 	}
@@ -163,15 +163,30 @@
 		font-style: normal;
 	}
 
-	.MenuItem /* unifiedNavBar */
+	#u11413,#u11434
 	{
-		cursor: pointer;
+		background-color: transparent;
+	}
+
+	#u11409,#u11430
+	{
+		display: block;
 	}
 
 	#u2258
 	{
 		background-color: #3C3E43;
 		background-color: rgba(39,41,47,0.9);
+	}
+
+	#u5182-4
+	{
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		color: #FFFFFF;
+		font-family: sofia-pro, sans-serif;
+		font-weight: 200;
 	}
 
 	#u3911_align_to_page

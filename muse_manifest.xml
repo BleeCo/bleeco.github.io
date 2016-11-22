@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1479812621860">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1479813079661">
   <folder name="css">
     <file name="site_global.css" crc="3889372590"/>
-    <file name="master_a-master.css" crc="3810970852" ref="testimonials:index:about:contact:blog:faqs"/>
+    <file name="master_a-master.css" crc="4285489056" ref="testimonials:index:about:contact:blog:faqs"/>
     <file name="nomq_preview_master_a-master.css" crc="3968769409" ref="testimonials:index:about:contact:blog:faqs"/>
     <file name="testimonials.css" crc="3824966648" ref="testimonials"/>
     <file name="nomq_testimonials.css" crc="4178411096" ref="testimonials"/>
-    <file name="index.css" crc="3910386683" ref="index"/>
-    <file name="nomq_index.css" crc="4014865212" ref="index"/>
+    <file name="index.css" crc="299551252" ref="index"/>
+    <file name="nomq_index.css" crc="339338489" ref="index"/>
     <file name="about.css" crc="3824966648" ref="about"/>
     <file name="nomq_about.css" crc="4178411096" ref="about"/>
     <file name="contact.css" crc="3824966648" ref="contact"/>
@@ -71,7 +71,7 @@
     <file name="recognition-01320x69.jpg" crc="3906692151" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
-  <file name="index.html" crc="6058005" seo="true" mt="1479812490363" redirect="true"/>
+  <file name="index.html" crc="4081415326" seo="true" mt="1479813052258" redirect="true"/>
   <file name="about.html" crc="13231174" seo="true" mt="1479812407915" redirect="true"/>
   <file name="testimonials.html" crc="443767750" seo="true" mt="1479812407915" redirect="true"/>
   <file name="faqs.html" crc="227279922" seo="true" mt="1479812407915" redirect="true"/>

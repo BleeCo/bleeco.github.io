@@ -1,40 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.getblee.com/index.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/contact.html</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/down-arrow-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/features-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website-gif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01993x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/features-01966x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01992x213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01770x326.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/features-01748x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01768x165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01482x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/features-01467x101.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01480x103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01362x153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01360x78.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/website%20banner%20copy-01322x136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/recognition-01320x69.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.getblee.com/blog.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.getblee.com/contact.html</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.getblee.com/faqs.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.getblee.com/testimonials.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.getblee.com/about.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.getblee.com/images/logo_social_alpha-02-crop-u22875.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.getblee.com/assets/real-time-01.jpg</loc>
@@ -45,66 +171,6 @@
   <url>
     <loc>http://www.getblee.com/assets/customize-01.jpg</loc>
     <lastmod>2016-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/assets/direction-01.jpg</loc>
-    <lastmod>2016-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/assets/library-01.jpg</loc>
-    <lastmod>2016-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/assets/record-sounds-01.jpg</loc>
-    <lastmod>2016-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/assets/smartphone-compatible-01.jpg</loc>
-    <lastmod>2016-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/down-arrow-01.svg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/logo_facebook.svg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/logo_twitter.svg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/blee%20logo%20vector-01_poster_.png</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/features-01.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -121,80 +187,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01993x420.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
+    <loc>http://www.getblee.com/assets/record-sounds-01.jpg</loc>
+    <lastmod>2016-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/features-01966x207.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/recognition-01992x213.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01770x326.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/features-01748x161.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/recognition-01768x165.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01482x204.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/features-01467x101.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/recognition-01480x103.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01362x153.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/recognition-01360x78.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/website%20banner%20copy-01322x136.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.getblee.com/images/recognition-01320x69.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
+    <loc>http://www.getblee.com/assets/smartphone-compatible-01.jpg</loc>
+    <lastmod>2016-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -217,20 +217,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/website-gif.gif</loc>
-    <lastmod>2016-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.getblee.com/assets/mobile-01.jpg</loc>
     <lastmod>2016-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.getblee.com/images/recognition-01.jpg</loc>
-    <lastmod>2016-11-22</lastmod>
+    <loc>http://www.getblee.com/assets/direction-01.jpg</loc>
+    <lastmod>2016-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.getblee.com/assets/library-01.jpg</loc>
+    <lastmod>2016-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

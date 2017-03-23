@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1479813079661">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.getblee.com" resolutions="1x" timestamp="1490263038128">
   <folder name="css">
-    <file name="site_global.css" crc="3889372590"/>
-    <file name="master_a-master.css" crc="4285489056" ref="testimonials:index:about:contact:blog:faqs"/>
-    <file name="nomq_preview_master_a-master.css" crc="3968769409" ref="testimonials:index:about:contact:blog:faqs"/>
-    <file name="testimonials.css" crc="3824966648" ref="testimonials"/>
-    <file name="nomq_testimonials.css" crc="4178411096" ref="testimonials"/>
-    <file name="index.css" crc="299551252" ref="index"/>
-    <file name="nomq_index.css" crc="339338489" ref="index"/>
-    <file name="about.css" crc="3824966648" ref="about"/>
-    <file name="nomq_about.css" crc="4178411096" ref="about"/>
-    <file name="contact.css" crc="3824966648" ref="contact"/>
-    <file name="nomq_contact.css" crc="4178411096" ref="contact"/>
-    <file name="blog.css" crc="3824966648" ref="blog"/>
-    <file name="nomq_blog.css" crc="4178411096" ref="blog"/>
-    <file name="faqs.css" crc="3824966648" ref="faqs"/>
-    <file name="nomq_faqs.css" crc="4178411096" ref="faqs"/>
+    <file name="site_global.css" crc="3767755330"/>
+    <file name="master_a-master.css" crc="4174831661" ref="contact:faqs:blog:index:about:testimonials"/>
+    <file name="nomq_preview_master_a-master.css" crc="3968769409" ref="contact:faqs:blog:index:about:testimonials"/>
+    <file name="contact.css" crc="4073177759" ref="contact"/>
+    <file name="nomq_contact.css" crc="505822313" ref="contact"/>
+    <file name="faqs.css" crc="4073177759" ref="faqs"/>
+    <file name="nomq_faqs.css" crc="505822313" ref="faqs"/>
+    <file name="blog.css" crc="4073177759" ref="blog"/>
+    <file name="nomq_blog.css" crc="505822313" ref="blog"/>
+    <file name="index.css" crc="4250208605" ref="index"/>
+    <file name="nomq_index.css" crc="202401898" ref="index"/>
+    <file name="about.css" crc="4073177759" ref="about"/>
+    <file name="nomq_about.css" crc="505822313" ref="about"/>
+    <file name="testimonials.css" crc="4073177759" ref="testimonials"/>
+    <file name="nomq_testimonials.css" crc="505822313" ref="testimonials"/>
   </folder>
   <folder name="assets">
     <file name="mobile-01.jpg" crc="4120973711" seo="true" mt="1479751574000"/>
@@ -31,50 +31,224 @@
     <file name="smartphone-compatible-01.jpg" crc="3813722694" seo="true" mt="1479751574000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="museutils.js" crc="3851988764" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:testimonials:faqs:contact:blog"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="museconfig.js" crc="169177150" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="pie.js" crc="3831537696" ref="index:about"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="require.js" crc="4108833657" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about:testimonials:faqs:contact:blog"/>
+    <file name="require.js" crc="4234670167" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
   <folder name="images">
-    <file name="website banner copy-01.jpg" crc="3932408896" seo="true" ref="index"/>
-    <file name="down-arrow-01.svg" crc="83674688" seo="true" ref="index"/>
-    <file name="down-arrow-01_poster_.png" crc="3921463238" ref="index"/>
-    <file name="logo_facebook.svg" crc="4217760542" seo="true" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="logo_facebook_poster_.png" crc="3789661613" ref="index"/>
-    <file name="logo_twitter.svg" crc="156455958" seo="true" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="logo_twitter_poster_.png" crc="438154397" ref="index"/>
-    <file name="blee logo vector-01_poster_.png" crc="4166103070" seo="true" ref="index:about:testimonials:faqs:contact:blog"/>
-    <file name="features-01.jpg" crc="173897798" seo="true" ref="index"/>
-    <file name="website-gif.gif" crc="123983490" seo="true" ref="index"/>
-    <file name="recognition-01.jpg" crc="393322000" seo="true" ref="index"/>
-    <file name="website banner copy-01993x420.jpg" crc="31394876" seo="true" ref="index"/>
-    <file name="features-01966x207.jpg" crc="490409121" seo="true" ref="index"/>
-    <file name="recognition-01992x213.jpg" crc="3834481145" seo="true" ref="index"/>
-    <file name="website banner copy-01770x326.jpg" crc="132718030" seo="true" ref="index"/>
-    <file name="features-01748x161.jpg" crc="397868355" seo="true" ref="index"/>
-    <file name="recognition-01768x165.jpg" crc="117774927" seo="true" ref="index"/>
-    <file name="website banner copy-01482x204.jpg" crc="4236438286" seo="true" ref="index"/>
-    <file name="features-01467x101.jpg" crc="4286841119" seo="true" ref="index"/>
-    <file name="recognition-01480x103.jpg" crc="3952033320" seo="true" ref="index"/>
-    <file name="website banner copy-01362x153.jpg" crc="4165702506" seo="true" ref="index"/>
-    <file name="recognition-01360x78.jpg" crc="3908376229" seo="true" ref="index"/>
-    <file name="website banner copy-01322x136.jpg" crc="4061143981" seo="true" ref="index"/>
-    <file name="recognition-01320x69.jpg" crc="3906692151" seo="true" ref="index"/>
+    <file name="website banner copy-01.jpg" crc="3932408896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down-arrow-01.svg" crc="83674688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down-arrow-01_poster_.png" crc="3794360955" ref="index"/>
+    <file name="logo_facebook.svg" crc="4217760542" seo="true" ref="index:about:testimonials:faqs:contact:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo_facebook_poster_.png" crc="50490028" ref="index"/>
+    <file name="logo_twitter.svg" crc="156455958" seo="true" ref="index:about:testimonials:faqs:contact:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo_twitter_poster_.png" crc="4184454095" ref="index"/>
+    <file name="blee logo vector-01_poster_.png" crc="4166103070" seo="true" ref="index:about:testimonials:faqs:contact:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="features-01.jpg" crc="173897798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website-gif.gif" crc="123983490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01.jpg" crc="393322000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_social_alpha-02-crop-u22875.png" crc="4132305767" seo="true" ref="index:about:testimonials:faqs:contact:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="faqs" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="website banner copy-01993x420.jpg" crc="3762279874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="features-01966x207.jpg" crc="1381077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01992x213.jpg" crc="492926041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website banner copy-01770x326.jpg" crc="4217595332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="features-01748x161.jpg" crc="4223657358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01768x165.jpg" crc="505463902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website banner copy-01482x204.jpg" crc="4217030215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="features-01467x101.jpg" crc="113541631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01480x103.jpg" crc="263856673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website banner copy-01362x153.jpg" crc="488016195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01360x78.jpg" crc="4007737402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website banner copy-01322x136.jpg" crc="4238683622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recognition-01320x69.jpg" crc="241980613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index:about:testimonials:faqs:contact:blog"/>
   </folder>
-  <file name="index.html" crc="4081415326" seo="true" mt="1479813052258" redirect="true"/>
-  <file name="about.html" crc="13231174" seo="true" mt="1479812407915" redirect="true"/>
-  <file name="testimonials.html" crc="443767750" seo="true" mt="1479812407915" redirect="true"/>
-  <file name="faqs.html" crc="227279922" seo="true" mt="1479812407915" redirect="true"/>
-  <file name="contact.html" crc="27488280" seo="true" mt="1479812407915" redirect="true"/>
-  <file name="blog.html" crc="380542405" seo="true" mt="1479812407915" redirect="true"/>
+  <file name="index.html" crc="4106265432" seo="true" mt="1490263017330" redirect="true"/>
+  <file name="about.html" crc="3845675962" seo="true" mt="1490263023275" redirect="true"/>
+  <file name="testimonials.html" crc="3813965505" seo="true" mt="1490263025818" redirect="true"/>
+  <file name="faqs.html" crc="3800618374" seo="true" mt="1490263028982" redirect="true"/>
+  <file name="contact.html" crc="3780206623" seo="true" mt="1490263031362" redirect="true"/>
+  <file name="blog.html" crc="345756861" seo="true" mt="1490263033575" redirect="true"/>
 </manifest>

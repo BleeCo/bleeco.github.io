@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://getblee.com/index.html</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://getblee.com/images/blee%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/001-facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/004-twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/003-medium.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://getblee.com/images/hear-01.png</image:loc>
@@ -27,58 +39,43 @@
       <image:loc>http://getblee.com/images/map-location.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/render%20blur.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/blee%20logo96x126.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/render%20blur-crop-u6085.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/stay%20connected!-01-crop-u1079.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/blee%20logo77x101.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/meet%20people-01768x301.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/stay%20connected!-01-crop-u10792.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://getblee.com/images/blee%20logo50x66.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://getblee.com/images/meet%20people-01480x188.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/stay%20connected!-01-crop-u10793.png</image:loc>
+      <image:loc>http://getblee.com/images/stay%20connected!-01480x188.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://getblee.com/images/blee%20logo35x46.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/meet%20people-01320x126.png</image:loc>
+      <image:loc>http://getblee.com/images/meet%20people-01320x125.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/stay%20connected!-01-crop-u10794.png</image:loc>
+      <image:loc>http://getblee.com/images/stay%20connected!-01320x125.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://getblee.com/about-us.html</loc>
-    <lastmod>2017-04-25</lastmod>
+    <loc>http://getblee.com/team-blee.html</loc>
+    <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://getblee.com/images/blee%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/render%20blur.jpg</image:loc>
+      <image:loc>http://getblee.com/images/001-facebook.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://getblee.com/images/render%20blur-crop-u6085.jpg</image:loc>
+      <image:loc>http://getblee.com/images/004-twitter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://getblee.com/images/003-medium.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://getblee.com/images/blee%20recognitions-01.png</image:loc>
@@ -88,15 +85,6 @@
     </image:image>
     <image:image>
       <image:loc>http://getblee.com/images/zsu.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/logo_social_alpha-02261x185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/logo_social_alpha-02163x116.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://getblee.com/images/logo_social_alpha-02109x77.png</image:loc>
     </image:image>
   </url>
 </urlset>

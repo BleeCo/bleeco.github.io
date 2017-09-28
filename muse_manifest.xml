@@ -1,168 +1,18 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1493497239050">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="getblee.com" resolutions="1x" timestamp="1506585488592">
   <folder name="css">
-    <file name="site_global.css" crc="44911171"/>
-    <file name="master_a-master.css" crc="77705612" ref="team-blee:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="149212189" ref="team-blee:index"/>
-    <file name="team-blee.css" crc="4016165588" ref="team-blee"/>
-    <file name="nomq_team-blee.css" crc="515205404" ref="team-blee"/>
-    <file name="index.css" crc="3817372262" ref="index"/>
-    <file name="nomq_index.css" crc="3927565853" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4277868896" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team-blee"/>
-    <file name="museutils.js" crc="4232573551" ref="index:team-blee"/>
-    <file name="whatinput.js" crc="86476730" ref="index:team-blee"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:team-blee"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:team-blee"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:team-blee"/>
-    <file name="webpro.js" crc="3770351119" ref="index:team-blee"/>
-    <file name="form_check.php" crc="3841221102" ref="index"/>
-    <file name="form_throttle.php" crc="4048049783" ref="index"/>
-    <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u6110.php" crc="4129145018" ref="index"/>
-    <file name="form-u8589.php" crc="4082213134" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:team-blee"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index:team-blee"/>
-    <file name="require.js" crc="4234670167" ref="index:team-blee"/>
-    <file name="musewpdisclosure.js" crc="347705465" ref="team-blee"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="all set for pilot!-01.png" crc="42280364" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blee logo.png" crc="465295668" seo="true" ref="index:team-blee">
-      <caption webpage="index" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="001-facebook.svg" crc="4156675274" seo="true" ref="index:team-blee">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="001-facebook_poster_.png" crc="374331160" ref="index"/>
-    <file name="004-twitter.svg" crc="3842779359" seo="true" ref="index:team-blee">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="004-twitter_poster_.png" crc="182958704" ref="index"/>
-    <file name="002-instagram.svg" crc="3802473722" seo="true" ref="index:team-blee">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="002-instagram_poster_.png" crc="4211970850" ref="index"/>
-    <file name="003-medium.svg" crc="146263751" seo="true" ref="index:team-blee">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="003-medium_poster_.png" crc="3845328819" ref="index"/>
-    <file name="hear-01.png" crc="472966598" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="meet people-01.png" crc="241345757" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="two-round-overlapping-speech-bubbles.png" crc="385528314" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ballerina-shoes.png" crc="4206764240" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stay connected!-01.png" crc="420277585" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="map-location.png" crc="482603231" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blur 1.png" crc="3773190661" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all set for pilot!-01-u123-fr.png" crc="481498818" ref="index"/>
-    <file name="blee logo50x66.png" crc="396730761" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="meet people-01480x188.png" crc="4112188668" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stay connected!-01480x188.png" crc="468668492" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all set for pilot!-01-u123-fr2.png" crc="441184959" ref="index"/>
-    <file name="blee logo35x46.png" crc="4178959476" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="meet people-01320x125.png" crc="305849731" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stay connected!-01320x125.png" crc="4260692648" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:team-blee"/>
-    <file name="blee recognitions-01.png" crc="4044080978" seo="true" ref="team-blee">
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="logo_social_alpha-02.png" crc="4205048966" seo="true" ref="team-blee">
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
-    <file name="zsu.png" crc="270776022" seo="true" ref="team-blee">
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-      <caption webpage="team-blee" alt=""/>
-    </file>
+    <file name="home-favicon.ico" crc="4037579981" ref="index"/>
   </folder>
-  <file name="index.html" crc="180628038" seo="true" mt="1493497177227" redirect="true"/>
-  <file name="team-blee.html" crc="4252109285" seo="true" mt="1493497177229" redirect="true"/>
+  <file name="index.html" crc="4156816660" mt="1506585372872" redirect="true"/>
 </manifest>
